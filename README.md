@@ -6,7 +6,7 @@ I created an integrated Google Sheets data tool for HAX that tracks messages in 
 
 **Functionality:**
 
-An associate can run the script, open the Google Sheets dashboard, and view new posts, files, and DMs in Slack groups such as GenZ-VC, hwstartup, etc. The associate can flag users as investors or founders, which automatically updates corresponding investor and founder sheets with contact information. I intend to add functionality to automatically send messages to investors and founders once their messages in the Slack group has been tagged. 
+An associate can run the script, open the Google Sheets dashboard, and view new posts, files, and DMs in Slack groups such as GenZ-VC, hwstartup, etc. The associate can flag users as investors or founders, which automatically updates corresponding investor and founder sheets with contact information. I intend to add functionality to automatically send messages to investors and founders once their message from Slack has been tagged. 
 
 **Data Tools Used:**
 
