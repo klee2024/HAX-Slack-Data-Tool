@@ -1,8 +1,12 @@
 # HAX-Slack-Data-Tool
 
+**Key Objective: **
+
+Build new investor relationships and attract new startup program applicants. 
+
 **Project Description:**
 
-I created an integrated Google Sheets data tool for HAX that tracks messages in Slack channels that are relevant to HAX's investment thesis and industries of interest, with the goal of creating new investor relationships and new program applicants. 
+I created an integrated Google Sheets data tool for HAX that tracks messages in Slack channels that are relevant to HAX's investment thesis and industries of interest. 
 
 **Functionality:**
 
