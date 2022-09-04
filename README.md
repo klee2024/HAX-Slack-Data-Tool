@@ -1,6 +1,6 @@
 # HAX-Slack-Data-Tool
 
-**Key Objective: **
+**Key Objective:**
 
 Build new investor relationships and attract new startup program applicants. 
 
