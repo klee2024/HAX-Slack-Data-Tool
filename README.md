@@ -1,2 +1,17 @@
 # HAX-Slack-Data-Tool
-Created data tool for HAX to generate leads from Slack. The code is omitted for confidentiality reasons, but a description is included in the ReadMe.
+
+**Project Description: **
+
+I created an integrated Google Sheets data tool for HAX that tracks messages in Slack channels that are relevant to HAX's investment thesis and industries of interest, with the goal of creating new investor relationships and new program applicants. 
+
+**Functionality: **
+
+An associate can run the script, open the Google Sheets dashboard, and view new posts, files, and DMs in Slack groups such as GenZ-VC, hwstartup, etc. The associate can flag users as investors or founders, which automatically updates corresponding investor and founder sheets with contact information. I intend to add functionality to automatically send messages to investors and founders once their messages in the Slack group has been tagged. 
+
+**Data Tools Used:**
+
+Python NumPy and Pandas, Google Drive API, Google Sheets API, GSpread, PhantomBuster
+
+_code ommitted for confidentiality reasons_
+
+
